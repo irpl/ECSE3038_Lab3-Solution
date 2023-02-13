@@ -25,7 +25,7 @@ pip install "fastapi[all]" motor
 start your server application
 
 ```
-uvivorn app:app --reload
+uvicorn app:app --reload
 ```
 
 Front end component to test the lab
